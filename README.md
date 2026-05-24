@@ -50,6 +50,7 @@
 ### 🌐 IP Networking & Infrastructure
 * 📂 **[Secure Enterprise Network & Cloud Infrastructure](https://github.com/Alisoliiman/secure-enterprise-network)** (2026)
   * Built a secure two-branch corporate network topology on **Cisco Packet Tracer** using hierarchical design. Configured **OSPF with MD5 authentication**, ACL firewalls, and backbone servers (Syslog, NTP) to mitigate MitM, Spoofing, and Sniffing.
+    ## * 🤝 **Collaborators / Team Members:** [@username1](https://github.com/username1), [@username2](https://github.com/username2)
 * 📂 **[Secure NGN Cloud Multimedia Simulation](https://github.com/Alisoliiman/secure-ngn-multimedia)** (2025)
   * Simulated a Next-Generation Network backbone architecture integrating Cloud servers, IP Phones, PSTN, and Mobile layers. Configured telecom protocols (**SIP, H.323 VoIP, SS7**) and applied the CIA triad against DoS attacks.
 * 📂 **[Enterprise Network Design with Multi-VLAN & STP](https://github.com/Alisoliiman/multi-vlan-stp-design)** (2025)
