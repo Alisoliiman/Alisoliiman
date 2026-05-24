@@ -36,9 +36,9 @@
 | Domain | Technologies & Protocols |
 | :--- | :--- |
 | **IP Networking** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) `CCNAv7` `OSPF` `STP` `VLANs/Trunking` `ACLs` `VLSM` |
-| **Telecommunications** | ![Telecom](https://img.shields.io/badge/📶_Telecom?style=flat-square) `5G NR Downlink` `Open RAN (ORAN)` `LDPC Coding` |
+| **Telecommunications** | ![Telecom](https://img.shields.io/badge/Telecommunications-%230A2540?style=flat-square&logo=gitbook&logoColor=white) `5G NR Downlink` `Open RAN (ORAN)` `LDPC Coding` |
 | **Cloud & Virtualization** | ![Huawei](https://img.shields.io/badge/Huawei_Cloud-FF0000?style=flat-square&logo=huawei&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) `HCCDA Tech Essentials` `VMware` `NFV Basics` |
-| **System Administration** | ![RedHat](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-EE0000?style=flat-square&logo=red-hat&logoColor=white) `MCSA` `RHCSA I & II` `GNU Bash Scripting` `CLI Linux` |
+| **System Administration** | ![SysAdmin](https://img.shields.io/badge/System_Administration-%2324292e?style=flat-square&logo=linux&logoColor=FCC624) `MCSA` `RHCSA I & II` `GNU Bash Scripting` `CLI Linux` |
 | **Programming & Modeling** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=MathWorks&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) |
 | **IoT & Web Dev** | ![ESP32](https://img.shields.io/badge/ESP32_/_Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) `MQTT` `HTTP` `PHP` `HTML5` `CSS3` `Oracle SQL` |
 
