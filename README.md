@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi ⚡ I'm Ali Soliman</h1>
-  <p><strong>Telecom & IP Network Cloud Engineer</strong></p>
+  <p><strong>Telecom. Engineer</strong></p>
   
   <p>
     <a href="https://linkedin.com/in/alisoliiman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -35,7 +35,7 @@
 
 | Domain | Technologies & Protocols |
 | :--- | :--- |
-| **IP Networking** | ![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white) `CCNAv7` `OSPF` `STP` `VLANs/Trunking` `ACLs` `VLSM` |
+| **IP Networking** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) `CCNAv7` `OSPF` `STP` `VLANs/Trunking` `ACLs` `VLSM` |
 | **Telecommunications** | ![Telecom](https://img.shields.io/badge/Telecom-📶-orange?style=flat-square) `5G NR Downlink` `Open RAN (ORAN)` `LDPC Coding` |
 | **Cloud & Virtualization** | ![Huawei](https://img.shields.io/badge/Huawei_Cloud-FF0000?style=flat-square&logo=huawei&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) `HCCDA Tech Essentials` `VMware` `NFV Basics` |
 | **System Administration** | ![RedHat](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-EE0000?style=flat-square&logo=red-hat&logoColor=white) `RHCSA I & II` `GNU Bash Scripting` `CLI Linux` |
