@@ -9,14 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate
+    
+    permissions: # السطور الجديدة لتفعيل صلاحية الكتابة والرفع المباشر
+      contents: write
+      
     env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # بيجبر جميع الخطوات تشتغل على البيئة الحديثة وبيخفي التحذير
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
-      - uses: actions/checkout@v4 # حدثناها من v3 لـ v4
-      - uses: actions/setup-node@v4 # حدثناها من v3 لـ v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: '24' # رفعنا الإصدار من 16 لـ 24 المعتمدة حالياً
+          node-version: '24'
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
