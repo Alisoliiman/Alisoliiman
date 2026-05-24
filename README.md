@@ -8,7 +8,7 @@
   </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=500&color=0078D4&center=true&vCenter=true&width=650&height=120&lines=Hello+Engineers%21+%F0%9F%8C%90;I%27m+Ali+Soliman;Telecom+%26+Network+Cloud+Eng." alt="Ali Soliman" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=500&color=0078D4&center=true&vCenter=true&width=650&height=120&lines=Hello+Engineers%21+%F0%9F%8C%90;I%27m+Ali+Soliman;Telecom+%26+Network+Eng." alt="Ali Soliman" />
 </p>
 <br/>
   
