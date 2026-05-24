@@ -50,17 +50,21 @@
 ### 🌐 IP Networking & Infrastructure
 * 📂 **[Secure Enterprise Network & Cloud Infrastructure](https://github.com/Alisoliiman/secure-enterprise-network)** (2026)
   * Built a secure two-branch corporate network topology on **Cisco Packet Tracer** using hierarchical design. Configured **OSPF with MD5 authentication**, ACL firewalls, and backbone servers (Syslog, NTP) to mitigate MitM, Spoofing, and Sniffing.
-     * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
+    * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
 * 📂 **[Secure NGN Cloud Multimedia Simulation](https://github.com/Alisoliiman/secure-ngn-multimedia)** (2025)
   * Simulated a Next-Generation Network backbone architecture integrating Cloud servers, IP Phones, PSTN, and Mobile layers. Configured telecom protocols (**SIP, H.323 VoIP, SS7**) and applied the CIA triad against DoS attacks.
+  * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
 * 📂 **[Enterprise Network Design with Multi-VLAN & STP](https://github.com/Alisoliiman/multi-vlan-stp-design)** (2025)
   * Implemented an enterprise switching topology optimized with **Spanning-Tree Protocol (STP)** for loop elimination and dynamic Layer 3 Switch Inter-VLAN routing.
+  * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
 
 ### 📶 Advanced Telecommunications (5G)
 * 📂 **[5G NR Downlink Physical Layer Simulation](https://github.com/Alisoliiman/5g-nr-downlink-simulation)** (2026)
   * Developed a comprehensive **MATLAB** simulation executing the full 5G NR-DL physical layer pipeline, including CRC, **LDPC encoding/decoding**, Scrambling, Modulation Mapping, and **Massive MIMO** integration.
+  * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
 * 📂 **[LDPC Channel Coding Technology](https://github.com/Alisoliiman/ldpc-channel-coding)** (2024)
   * Analyzed error correction processing chains within digital communications, modeling Tanner Graphs and encoding algorithms.
+  * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
 
 ### 🧠 IoT & Systems Integration
 * 📂 **[Medical Elderly Care IoT Platform - MidConnect](https://github.com/Alisoliiman/midconnect-iot)** (2026)
