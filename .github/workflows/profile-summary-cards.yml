@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@v2.4.5
+      - uses: vn7n24fzkq/github-profile-summary-cards@master # التعديل هنا (استخدام نسخة الماستر المستقرة مباشرة)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
