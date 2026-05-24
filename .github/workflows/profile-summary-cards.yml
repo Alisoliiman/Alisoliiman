@@ -1,0 +1,19 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule: # code run automatically every day at 12 midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch: # allows you to operate it manually at any time.
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@v2.4.5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
