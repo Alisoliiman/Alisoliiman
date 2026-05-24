@@ -53,7 +53,7 @@
     * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
 * 📂 **[Secure NGN Cloud Multimedia Simulation](https://github.com/Alisoliiman/secure-ngn-multimedia)** (2025)
   * Simulated a Next-Generation Network backbone architecture integrating Cloud servers, IP Phones, PSTN, and Mobile layers. Configured telecom protocols (**SIP, H.323 VoIP, SS7**) and applied the CIA triad against DoS attacks.
-  * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
+  * 🤝 **Collaborators / Team Members:** [@amanyhabib](https://github.com/amanyhabib)
 * 📂 **[Enterprise Network Design with Multi-VLAN & STP](https://github.com/Alisoliiman/multi-vlan-stp-design)** (2025)
   * Implemented an enterprise switching topology optimized with **Spanning-Tree Protocol (STP)** for loop elimination and dynamic Layer 3 Switch Inter-VLAN routing.
   * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
