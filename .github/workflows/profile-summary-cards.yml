@@ -9,13 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # بيجبر جميع الخطوات تشتغل على البيئة الحديثة وبيخفي التحذير
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4 # حدثناها من v3 لـ v4
+      - uses: actions/setup-node@v4 # حدثناها من v3 لـ v4
         with:
-          node-version: '16'
-      - uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0 # إصدار رقمي ثابت ومضمون
+          node-version: '24' # رفعنا الإصدار من 16 لـ 24 المعتمدة حالياً
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
