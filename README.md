@@ -90,11 +90,6 @@
     <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="32%"/>
   </a>
 </div>
-  
-  <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=Alisoliiman&style=flat-square&color=orange&label=PROFILE+VIEWS" alt="Views"/>
-  </p>
-</div>
 
 ---
 
