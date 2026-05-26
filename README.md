@@ -87,7 +87,7 @@
     <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%"/>
   </a>
   <a>
-        <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="44%"/>
+        <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="50%"/>
   </a>
 ---
 
