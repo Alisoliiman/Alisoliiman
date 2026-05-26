@@ -84,18 +84,10 @@
 <div align="center">
   <a href="https://github.com/Alisoliiman">
     <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/3-stats.svg" width="32%"/>
-    <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="32%"/>
-    <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%"/>
+    <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="44%"/>
+    <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="20%"/>
     
   </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Alisoliiman">
-    <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/stats.svg" width="32%"/>
-    <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/profile-details.svg" width="32%"/>
-    <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/repos-per-language.svg" width="32%"/>
-  </a>
-</div>
 ---
 
 ## ⚡ Quick Insights
