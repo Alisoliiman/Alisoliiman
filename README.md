@@ -69,6 +69,7 @@
 ### 🧠 IoT & Systems Integration
 * 📂 **[Medical Elderly Care IoT Platform - MidConnect](https://github.com/Alisoliiman/midconnect-iot)** (2026)
   * Designed an full-stack IoT tracking platform. Developed the real-time web application (**PHP/HTML/CSS**) and engineered the communication layer to interface hardware signals (**ESP32**, SpO2, Heart Rate, GPS) with the web platform.
+  * 🤝 **Collaborators / Team Members:** [@eng-ahmedradi](https://github.com/eng-ahmedradi)
 * 📂 **[Rainfall Detection IoT Project](https://github.com/Alisoliiman/rainfall-detection-iot)** (2025)
   * Co-developed a unified responsive IoT monitoring environment capable of aggregating and processing multi-sensor environmental data simultaneously.
 * 📂 **[Arduino UNO Sumo Robot Car](https://github.com/Alisoliiman/arduino-sumo-car)** (2024)
