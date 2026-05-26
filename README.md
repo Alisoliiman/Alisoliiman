@@ -82,6 +82,7 @@
 ## 📊 Git Activity & Performance
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/3-stats.svg" width="32%"/>
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr>
       <td width="50%" valign="top" style="border: 1px solid #1f2328; border-radius: 6px; padding: 15px; background: #0d1117;">
