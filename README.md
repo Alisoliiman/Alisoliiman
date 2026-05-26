@@ -82,29 +82,13 @@
 ## 📊 Git Activity & Performance
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/3-stats.svg" width="32%"/>
-  <table border="0" cellpadding="10" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" valign="top" style="border: 1px solid #1f2328; border-radius: 6px; padding: 15px; background: #0d1117;">
-        <h3 align="left">🌐 Network & Infrastructure Metrics</h3>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Routing_Protocols-OSPF_%7C_BGP_%7C_RIP-0078D4?style=flat-square&logo=cisco&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Core_Wireless-5G_NR_%7C_Massive_MIMO-113262?style=flat-square&logo=rss&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Security_Platforms-Fortigate_%7C_Cisco_ISE-EE0000?style=flat-square&logo=fortinet&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/NextGen_Telecom-Open_RAN_%7C_NGN_VoIP-24292e?style=flat-square&logo=gitbook&logoColor=white" />
-        </p>
-      </td>
-      <td width="50%" valign="top" style="border: 1px solid #1f2328; border-radius: 6px; padding: 15px; background: #0d1117;">
-        <h3 align="left">🐧 Systems & Automation Stats</h3>
-        <p align="left">
-          <img src="https://img.shields.io/badge/OS_Environment-Linux_SysAdmin-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
-          <img src="https://img.shields.io/badge/Scripting_%26_Config-GNU_Bash_%7C_CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Cloud_Infrastructure-Huawei_Cloud_HCCDA-C70000?style=flat-square&logo=huawei&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Simulations-GNS3_%7C_Packet_Tracer-005A9C?style=flat-square&logo=wireshark&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Alisoliiman">
+    <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/3-stats.svg" width="32%"/>
+    
+    <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="32%"/>
+    
+    <img src="https://raw.githubusercontent.com/Alisoliiman/Alisoliiman/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="32%"/>
+  </a>
 </div>
   
   <p align="right">
