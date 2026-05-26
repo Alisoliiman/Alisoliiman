@@ -53,10 +53,10 @@
     * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
 * 📂 **[Secure NGN Cloud Multimedia Simulation](https://github.com/Alisoliiman/secure-ngn-multimedia)** (2025)
   * Simulated a Next-Generation Network backbone architecture integrating Cloud servers, IP Phones, PSTN, and Mobile layers. Configured telecom protocols (**SIP, H.323 VoIP, SS7**) and applied the CIA triad against DoS attacks.
-  * 🤝 **Collaborators / Team Members:** [@amanyhabib](https://github.com/amanyhabib)
+  * 🤝 **Collaborators / Team Members:** [@amanyhabib](https://github.com/amanyhabib), [@eng-ahmedradi](https://github.com/eng-ahmedradi)
 * 📂 **[Enterprise Network Design with Multi-VLAN & STP](https://github.com/Alisoliiman/multi-vlan-stp-design)** (2025)
   * Implemented an enterprise switching topology optimized with **Spanning-Tree Protocol (STP)** for loop elimination and dynamic Layer 3 Switch Inter-VLAN routing.
-  * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
+  * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby), [@eng-ahmedradi](https://github.com/eng-ahmedradi)
 
 ### 📶 Advanced Telecommunications (5G)
 * 📂 **[5G NR Downlink Physical Layer Simulation](https://github.com/Alisoliiman/5g-nr-downlink-simulation)** (2026)
@@ -64,7 +64,7 @@
   * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
 * 📂 **[LDPC Channel Coding Technology](https://github.com/Alisoliiman/ldpc-channel-coding)** (2024)
   * Analyzed error correction processing chains within digital communications, modeling Tanner Graphs and encoding algorithms.
-  * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby)
+  * 🤝 **Collaborators / Team Members:** [@meralsheliby](https://github.com/meralsheliby), [@razanihab3](https://github.com/razanihab3), [@eng-ahmedradi](https://github.com/eng-ahmedradi)
 
 ### 🧠 IoT & Systems Integration
 * 📂 **[Medical Elderly Care IoT Platform - MidConnect](https://github.com/Alisoliiman/midconnect-iot)** (2026)
@@ -73,6 +73,8 @@
   * Co-developed a unified responsive IoT monitoring environment capable of aggregating and processing multi-sensor environmental data simultaneously.
 * 📂 **[Arduino UNO Sumo Robot Car](https://github.com/Alisoliiman/arduino-sumo-car)** (2024)
   * Secured **4th Place** in the university-wide competition sponsored by **Huawei Academy**. Programmed and optimized microcontroller hardware deployment using Acrylic fabrication templates.
+  * 🤝 **Collaborators / Team Members:** [@razanihab3](https://github.com/razanihab3)
+
 
 ---
 
